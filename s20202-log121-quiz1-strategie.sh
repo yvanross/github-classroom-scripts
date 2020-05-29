@@ -2,9 +2,9 @@
 # cat *.txt | awk 'NF == 1' >> missing.txt
 # S20202-LOG121-01-Quiz1-Patron-Stragegie-05-26-2020-08-54-23
 # S20202-LOG121-03-Quiz1-Patron-Strategie-05-26-2020-08-52-55
-for root in /Users/rossypro/Downloads/* ; do
+for root in /Users/rossypro/Downloads/quiz1/* ; do
   for d in $root/* ; do
-    cd $d
+    cd $dquiz2
     if  ! test  -f "correction.txt"; then
       if test -f "$d/src/main/java/PatronStrategie/Comparator/ComparatorNomSalaire.java" ; then
         cat "$d/src/main/java/PatronStrategie/Comparator/ComparatorNomSalaire.java" > correction.txt
