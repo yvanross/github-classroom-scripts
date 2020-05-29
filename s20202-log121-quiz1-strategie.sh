@@ -15,7 +15,7 @@ for root in /Users/rossypro/Downloads/* ; do
       mvn test | tail -n 25 >> correction.txt
       echo $d  >> correction.txt
       git_repository=$(basename $d)
-      cat /Users/rossypro/sources/scripts/ets/s20202-log121-01-github-nom-ets.txt /Users/rossypro/sources/scripts/ets/s20202-log121-03-github-nom-ets.txt /Users/rossypro/sources/scripts/ets/s20202-log121-04-github-nom-ets.txt | grep $git_repository  >> correction.txt
+      cat ./etudiants/s20202-log121-01-github-nom-ets.txt ./etudiants/s20202-log121-03-github-nom-ets.txt ./etudiants/s20202-log121-04-github-nom-ets.txt | grep $git_repository  >> correction.txt
       pwd
     fi
 
