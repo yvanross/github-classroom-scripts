@@ -18,7 +18,7 @@ gdecourval                Gabriel De Courval-Paré
 GeoffroiB                 Geoffroi Boulanger
 GoodieMob
 JadeHDETS                 Jade Houde-Dumas
-Javapool
+Javapool                  Louis-Charles Déziel
 KevinDoremy               Kevin Doremy-Laferrière
 KevinDoremyL              Kevin Doremy-Laferrière
 Lebeau-Alexandre          Alexandre Lebeau
