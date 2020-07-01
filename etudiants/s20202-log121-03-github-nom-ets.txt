@@ -33,7 +33,7 @@ OBrazeauETS               Olivier Brazeau
 PeterDL96                 Pierre-Luc Doyon
 RubenLaden                Ruben Tordjman
 Simnol                    Simon-Olivier Duguay
-sisimomo
+sisimomo                  Simon Vallières
 SoufianeHam               Soufiane Ham
 thierrymartel             Thierry Martel
 VincentRochon             Vincent Thomassin-Rochon

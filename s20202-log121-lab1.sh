@@ -14,7 +14,7 @@ for root in /Users/rossypro/Downloads/lab1/*; do
     simulation=$(find . -type d -name "simulation")
     cd $simulation
     cd ..
-    sublime . &
+    # sublime . &
     javac simulation/*.java > $d/$filename
     java simulation/Simulation 
     
