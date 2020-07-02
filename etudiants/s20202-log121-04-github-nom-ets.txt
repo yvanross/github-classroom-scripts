@@ -1,4 +1,4 @@
-ChaseYUL99        
+ChaseYUL99            Julien Cardinal
 David-Paradis-Cote    "David Paradis-Côté"    
 Geukers               "Philippe Geukers"
 HPhilly               "Bai Thoa Philip Huynh"
@@ -26,3 +26,4 @@ myriamlacroix         "Myriam Lacroix"
 obrassard             "Olivier Brassard"
 wernerburat           "Werner Burat"
 williamleb            "William Lebel"
+Bigchaor               Daniel Hadad
