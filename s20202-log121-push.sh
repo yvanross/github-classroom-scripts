@@ -1,10 +1,8 @@
-# display line with one field only
-# cat *.txt | awk 'NF == 1' >> missing.txt
-current_dir=$(pwd)
+download_path="log121-devoir2"
+message="Correction devoir #2 réalisé par Yvan Ross"
 
-# echo " " > $current_dir/jacoco_not_generated.txt
-
-for root in /Users/rossypro/Downloads/log121-intra/*; do
+for root in "/Users/rossypro/Downloads/$download_path/*"; do
+  # Itérer dans tous les projets git
   for d in $root/*; do
     cd $d
     echo $d
@@ -18,7 +16,7 @@ for root in /Users/rossypro/Downloads/log121-intra/*; do
     esac
 
     git add .
-    git commit -am "Correction Intra par Yvan"
+    git commit -am "$message"
     git push --set-upstream origin master
   done
 done
