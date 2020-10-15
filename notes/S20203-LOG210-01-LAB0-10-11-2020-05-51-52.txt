@@ -1,0 +1,35 @@
+1;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/BobbySystem; BUJOLD MIKAËL;
+2;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/ChaseYUL99;Julien Cardinal;
+3;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Dauthdaert; Wayan-Gwie Lapointe;
+4;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Dji129; DEMETRIUS DJINAH ;
+5;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Jean-Lamarre; JEAN LAMARRE;
+6;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/JilaniYah; _________________________; 0.55
+7;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Kawator; Komi Kevin Awator; 0.91
+8;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/MarwanEnnajih; ENNAJIH MARWAN ; 0.92
+9;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Massinissa-Merbouche; Massinissa Merbouche; 0.96
+10;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/MohamedChokre; _________________________; 0.44
+11;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/MonsieurLeger;Loïc Léger; 0.93
+12;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Nerdbeast11;Daniel-Robert Lupu; 0.93
+13;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/OBrazeauETS; Olivier Brazeau ; 0.86
+14;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/PcoteStudio;Philippe Côté; 0.92
+15;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Perceval62;__Vincent Perrier__; 0.95
+16;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Pollohollo;Berguin Paul; 0.93
+17;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/SkipDead; _________________________; 0.44
+18;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/VincentRochon; Vincent Thomassin-Rochon ; 0.95
+19;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/Zangdart; _________________________; 0.44
+20;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/aspsee; Alexandre St-Pierre-See; 0.92
+21;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/berkane96; ___Berkane-Hicheme Larbi___; 0.91
+22;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/faraon999; Vincent Simard; 0.93
+23;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/florent-duchesne; Florent Duchesne ; 0.88
+24;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/fortivi002;Vincent Fortin; 0.92
+25;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/guy-landry; Allagbe Kotchikpa Guy-Landry; 0.92
+26;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/horace-ets; _________________________; 0.44
+27;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/juliannetaza; _________________________; 0.44
+28;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/maxijonson; Tristan Chin; 0.92
+29;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/michelzzw; Zhongwei ZHENG ; 0.95
+30;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/mpanneton; _________________________; 0.88
+31;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/myriamlacroix; Myriam Lacroix ; 0.95
+32;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/najiboss77; Boutighatne Najib ; 0.88
+33;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/stev321; Lafleur Steven ; 0.91
+34;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/tiAshEluntz; JOSEPH ELUNTZ ASHLEY JOSE01109808; 0.92
+35;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-01-LAB0-10-11-2020-05-51-52/zakdonohue; _________________________; 0.46

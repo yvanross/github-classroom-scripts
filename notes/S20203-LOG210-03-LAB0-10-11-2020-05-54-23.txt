@@ -1,0 +1,43 @@
+66;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/AP09800-JJP; `JEAN PIERRE JULES` ; 0.95
+67;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Ali-Chimim; __CHIMIM ALI______________________; 0.93
+68;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/AndreNguyen15; Hoai-nam-André Nguyen; 0.95
+69;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Banzai262;Guillaume Simard; 0.95
+70;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/CCournoyerETS; Charle Cournoyer ; 0.90
+71;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/ChristopheTremblay; Christophe Tremblay ; 0.93
+72;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/EternalRebel;; 0.75
+73;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/FrazilienWilliam;William Frazilien; 0.91
+74;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/GRob27;Gabriel Roberge; 0.95
+75;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/ImadIdrissi1; IDRISSI IMAD; 0.93
+76;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Jean-CharlesMarentette;Jean-Charles Marentette; 0.93
+77;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/JustinETS;Justin Fofana; 0.91
+78;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Kuift; Nadon, Guy-Philippe; 0.92
+79;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/L-Gauthier; _________________________; 0.87
+80;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/MajorasM4sk; GAUTHIER JÉRÉMY GAUJ13089901; 0.91
+81;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Maxlego28; Maxime Young; 0.97
+82;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/MiroGaonachLovejoy; Miro Gaonac'h-Lovejoy ; 0.91
+83;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/MohamedBou-ETS; Mohamed Bouamoucha; 0.75
+84;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/NadirBouakel; Bouakel Mohammed Nadir; 0.92
+85;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/OfficialQueensbridgeMurderers; _________________________; 0.44
+86;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Ramatou-ets; ___SOURABIÉ RAMATOU__; 0.87
+87;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/RathishVadivel;Rathish Vasanthathithan; 0.90
+88;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Ronin825; Christophe Rivard ; 0.92
+89;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/Sam-Tardif; TARDIF SAMUEL ; 0.93
+90;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/SimonVoyer;Simon Voyer-Poitras; 0.95
+91;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/SoufianeHam; Soufiane Ham ; 0.87
+92;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/ZebuleETS; PLON29039808; 0.92
+93;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/anto9877; Antoine Legault; 0.91
+94;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/dakinguyen; Dat Quang Nguyen ; 0.83
+95;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/guipreg; Guillaume Prégent ; 0.92
+96;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/hugoVincent98; Hugo Vincent ; 0.88
+97;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/idoumbia; _________________________; 0.25
+98;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/jalci; Alcidor Joseph Jonathan; 0.93
+99;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/lamiphil; _________________________; 0.95
+100;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/magicf007; _________________________; 0.44
+101;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/mouhsinove; _________________________; 0.92
+102;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/nlabinebouchard;Nicolas Labine-Bouchard; 0.73
+103;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/phTrung; Pham Hoang Trung; 0.90
+104;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/samymadiou;MADIOU SAMY; 0.95
+105;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/thierrymartel; Thierry Martel ; 0.25
+106;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/vbrodeur12; Brodeur Vincent ; 0.83
+107;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/vincentGingras4; _________________________; 0.61
+108;/Users/rossypro/Downloads/LOG210-LAB0/S20203-LOG210-03-LAB0-10-11-2020-05-54-23/williamleb; William Lebel ; 0.97
