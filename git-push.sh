@@ -9,7 +9,7 @@ for root in "/Users/rossypro/Downloads/$download_path/*"; do
     counter=$(( $counter + 1 ))
     cd $group
     rm -f "jest.json"
-    git pull --no-edit
+    git pull origin master --no-edit
     git add .
     git commit -am "$message"
     git push --set-upstream origin master
