@@ -13,7 +13,7 @@ for root in "/Users/rossypro/Downloads/$download_path/*"; do
     echo " "
     echo "$counter => $group"
     counter=$(( $counter + 1 ))
-    cd $group
+    cd "$group"
     git fetch origin master
     git reset --hard origin/master
     cp -r "/Users/rossypro/sources/ets/log210/S20203-LOG210-Lab0/.github" "$d"

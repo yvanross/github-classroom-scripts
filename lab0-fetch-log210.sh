@@ -11,8 +11,8 @@ fi
 counter=0
 for root in "/Users/rossypro/Downloads/$download_path/*"; do
   for group in $root/*; do
-    echo $group
-    cd "$counter -> $group"
+    cd "$group"
+    echo "$counter -> $group"
     counter=$(( $counter + 1 ))
     git fetch origin master
     git reset --hard origin/master

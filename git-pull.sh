@@ -7,11 +7,11 @@ else
   for root in "$1/*"; do
     for group in $root/*; do
    
-      echo "$counter => $group"
-      counter=$(( $counter + 1 ))
-      cd $group
+       counter=$(( $counter + 1 ))
+      cd "$group"
       echo "----------------------------------------------------- "
-      git status
+      echo "$counter => $group"
+     git status
       git pull --no-edit
     done  
   done

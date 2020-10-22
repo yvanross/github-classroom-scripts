@@ -1,18 +1,12 @@
 #!/bin/sh
 # A POSIX variable
-OPTIND=1 
-while getopts “s:f:d:h:” opt; do
-  case $opt in
-    s) source="$OPTARG" ;;
-  
-  esac
-done
-if [ -z "$source" ]; then
-  echo "./git-enable.sh -s \"/Users/rossypro/Downloads/S20203-lab1-rapport\""  
+
+if [ -z "$1" ]; then
+  echo './git-enable.sh  "/Users/rossypro/Downloads/S20203-lab1-rapport"'
   exit 0
 fi
 clear
-for root in "$source/*"; do
+for root in "$1/*"; do
   for group in $root/*; do
     cd "$group"
     echo "$group"

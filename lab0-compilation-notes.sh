@@ -7,8 +7,8 @@ for root in "/Users/rossypro/Downloads/$download_path/*"; do
 
   
   for repertoire in $root/*; do
-    cd $repertoire
-    dir_name=$(basename $(dirname $repertoire))
+    cd "$repertoire"
+    dir_name=$(basename $(dirname "$repertoire"))
     report_name="$current_directory/$dir_name.txt"
     echo $report_name
     nb_file_processed=$(( $nb_file_processed + 1 ))
@@ -33,7 +33,7 @@ for root in "/Users/rossypro/Downloads/$download_path/*"; do
         echo "$repertoire => report_correction.txt is missing"
         echo ' '
 
-        cd $repertoire
+        cd "$repertoire"
         echo "+" > README.md
         rm -rf .github
         cp -r /Users/rossypro/sources/ets/log210/S20203-LOG210-Lab0/.github/ .github

@@ -6,7 +6,7 @@ download_path="LOG210-LAB0"
 nb_file_processed=0
 for root in "/Users/rossypro/Downloads/$download_path/*"; do
   for repertoire in $root/*; do
-    cd $repertoire
+    cd "$repertoire"
     nb_file_processed=$(( $nb_file_processed + 1 ))
     if [ -f "report_correction.txt" ]; then
       revision_exist=$(cat report_correction.txt | grep "note-revise =" |  wc -l)

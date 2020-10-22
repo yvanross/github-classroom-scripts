@@ -6,7 +6,7 @@ else
   for root in "$1/*"; do
     for group in $root/*; do
       counter=$(( $counter + 1 ))
-      cd $group
+      cd "$group"
       echo "------------------------------------------------------------------- "
       echo "$counter => $group"
       git status
