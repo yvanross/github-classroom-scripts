@@ -11,7 +11,7 @@ else
       cd "$repertoire"
 
       tplant --input ./**/*.ts --output class_extracted_from_code.svg
-      gitinspector -f** -x author:"Yvan Ross" -x author:elaforge98 -x author:JeremieMalenfant -x author:Olon11 -x author:"Horace ETS" -x author:"prettifier" > report_gitinspector.txt
+      gitinspector -f** -Tw -x author:"Yvan Ross" -x author:elaforge98 -x author:JeremieMalenfant -x author:Olon11 -x author:"Horace ETS" -x author:"prettifier" > report_gitinspector.txt
       
       cat report_gitinspector.txt | sed '/Below/,$d' | sed  '1,/changes/d' | sed  "s/[[:>:]][[:space:]][[:<:]]/_/g"  | sed '$ d' > report_gitinspector_data.txt
       nb_etudiant=$(cat "report_gitinspector_data.txt" | wc -l)
