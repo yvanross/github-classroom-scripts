@@ -1,2 +1,0 @@
-file '/Volumes/LaCie/Yvan/ets-cours/seance-09/out/LOG210-09-03-GRASP-dans-le-GOFA.mp4'
-file '/Volumes/LaCie/Yvan/ets-cours/seance-09/out/LOG210-09-03-GRASP-dans-le-GOFB.mp4'

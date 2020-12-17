@@ -1,4 +1,6 @@
 #!/bin/sh
+# export from github classroom directory to a destination directory
+# Scan github classrom directories to extract file matching a search criteria and copy them on another directory with same structure.  This directory could be imported on table for manual correction of pdf or other.
 # A POSIX variable
 OPTIND=1 
 while getopts “s:f:d:h:” opt; do
@@ -9,7 +11,7 @@ while getopts “s:f:d:h:” opt; do
   esac
 done
 if [ -z "$source" ] || [ -z "$search" ] || [ -z "$destination" ]; then
-  echo "./export.sh -s \"/Users/rossypro/Downloads/LOG210-LAB1\" -f \"*rapport*\" -d \"/Users/rossypro/Downloads/rapport\" " 
+  echo "./gc-export.sh -s \"/Users/rossypro/Downloads/LOG210-LAB1\" -f \"*rapport*\" -d \"/Users/rossypro/Downloads/rapport\" " 
   exit 0
 fi
 

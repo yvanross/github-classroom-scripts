@@ -1,8 +1,11 @@
  echo "start compilation of notes"
 download_path="LOG210-LAB0"
 
+if [ $# -lt 1 ]; then   
+  echo "./git-list-issues '/Users/rossypro/Downloads/LOG210-LAB0'"
+fi 
 nb_file_processed=0
-for root in "/Users/rossypro/Downloads/$download_path/*"; do
+for root in "$download_path/*"; do
   for repertoire in $root/*; do
     cd "$repertoire"
     issues=$(ghi list)
