@@ -1,3 +1,5 @@
+echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
 # change when github action is executed on push or manually with workflow_dispatch.
 if [ -z $1 ] || [ -z $2 ]; then
   echo './github-action-change.sh "/Users/rossypro/Downloads/LOG210-LAB0" ".github/workflows/main.yml" "s/\[push, workflow_dispatch\]/\[workflow_dispatch\]/"' 

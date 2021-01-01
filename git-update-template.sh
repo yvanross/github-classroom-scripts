@@ -1,3 +1,4 @@
+echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 echo "Must implement and test, see comment in this file"
 ' Objective is to update student code when template was modified.
 ' https://stackoverflow.com/questions/56577184/github-pull-changes-from-a-template-repository

@@ -1,4 +1,4 @@
- echo "start compilation of notes"
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 download_path="LOG210-LAB0"
 
 if [ $# -lt 1 ]; then   

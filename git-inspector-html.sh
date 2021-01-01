@@ -1,4 +1,6 @@
 #!/bin/bash
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
 globalOptions="--localize-output --grading --format=html"
 authorsToExcludeArray=("Benjamin Le" "Yvan Ross")
 reportPrefix="ContributionsÉquipe"

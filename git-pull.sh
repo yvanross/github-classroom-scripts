@@ -1,3 +1,5 @@
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
 if [ -z $1 ]; then
   echo './git-pull.sh "/Users/rossypro/Downloads/LOG210-LAB0"'
   echo './git-pull.sh "/Users/rossypro/Downloads/LOG210-LAB1"'

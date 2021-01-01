@@ -1,3 +1,5 @@
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
 if [ -z $1 ] || [ -z $2 ]; then
   echo './git-push.sh "/Users/rossypro/Downloads/LOG210-LAB0" "message"' 
   echo './git-push.sh "/Users/rossypro/Downloads/LOG210-LAB1" "message"'

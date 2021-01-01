@@ -2,6 +2,8 @@
 # export from github classroom directory to a destination directory
 # Scan github classrom directories to extract file matching a search criteria and copy them on another directory with same structure.  This directory could be imported on table for manual correction of pdf or other.
 # A POSIX variable
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
 OPTIND=1 
 while getopts “s:f:d:h:” opt; do
   case $opt in

@@ -1,3 +1,5 @@
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
 echo "generate gitinspector report for Charge de laboratoire"
 if [ -z $1 ]; then
 echo './git-inspector.sh "/Users/rossypro/Downloads/LOG210-LAB1"'

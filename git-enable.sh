@@ -1,5 +1,6 @@
 #!/bin/sh
 # A POSIX variable
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 
 if [ -z "$1" ]; then
   echo './git-enable.sh  "/Users/rossypro/Downloads/S20203-lab1-rapport"'
