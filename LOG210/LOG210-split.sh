@@ -28,7 +28,7 @@ echo "file 'temp04.mp4'" >> ./temp/combine.txt
 ffmpeg -hide_banner -stats -f concat -safe 0 -i ./temp/combine.txt  LOG210-C01-AC00-02-survol.mp4
 rm temp0*.mp4
 
-ffmpeg -i '/Users/rossypro/Downloads/video/S20203 LOG210 C01 G03 zoom 0.mp4' -ss 00:54:46 -to 01:16:12  ./temp/LOG210-C01-AC00-02-analyse-et-conception-oriente-objet.mp4
+ffmpeg -i '/Users/rossypro/Downloads/video/S20203 LOG210 C01 G03 zoom 0.mp4' -ss 00:54:46 -to 01:16:12  ./temp/LOG210-C01-AC00-02-analyse-et-conception-oriente-obje
 
 
 ffmpeg -i '/Users/rossypro/Downloads/video/S20203 LOG210 C01 G02 zoom 0.mp4' -ss 02:28:55 -to 02:32:12  ./temp/LOG210-C01-AC00-05-dcu.mp4

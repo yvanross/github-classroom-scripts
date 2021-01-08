@@ -1,10 +1,26 @@
-echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
-echo "Must implement and test, see comment in this file"
-' Objective is to update student code when template was modified.
-' https://stackoverflow.com/questions/56577184/github-pull-changes-from-a-template-repository
-' git remote add template [URL of the template repo] --allow-unrelated-histories
-' --allow-unrelated-histories only if error is generated
-' git fetch --all
-' git merge template/[branch to merge
-' the process should include a task to do manual merge when requested
+#!/bin/sh
+# A POSIX variable
+  echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 
+if [ -z "$2" ]; then
+  echo './git-update-template.sh /Users/rossypro/Downloads/LOG121-lab01 git@github.com:yvanross/LOG121-LAB01.git '
+  echo './git-update-template.sh /Users/rossypro/Downloads/LOG210-lab0 git@github.com:profcfuhrmanets/S20203-LOG210-Lab0.git '
+  
+  exit 0
+fi
+clear
+for root in "$1/*"; do
+  for group in $root/*; do
+    cd "$group"
+    echo "$group"
+    git pull
+    git remote add template "$2"
+    git fetch --all
+    git merge template/master --allow-unrelated-histories --no-edit
+    rm -rf target
+    # vi README.md
+    git add .
+    git commit -am "merge template"
+    git push --set-upstream origin master
+  done  
+done
