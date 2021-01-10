@@ -1,0 +1,1 @@
+npm run testnw > result3.txt 2>&1

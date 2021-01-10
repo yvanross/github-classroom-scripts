@@ -1,2 +1,7 @@
 /plantuml-images
 /target
+tempclip*.mp4
+montageVideo/unsilence/clips.txt
+montageVideo/unsilence/unsilence-result-log.txt
+montageVideo/unsilence/sdout.txt
+montageVideo/unsilence/fileaudio.mp3

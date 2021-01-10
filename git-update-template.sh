@@ -13,7 +13,7 @@ for root in "$1/*"; do
   for group in $root/*; do
     cd "$group"
     echo "$group"
-    git pull
+    git pull origin masger
     git remote add template "$2"
     git fetch --all
     git merge template/master --allow-unrelated-histories --no-edit
