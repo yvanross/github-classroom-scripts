@@ -1,8 +1,8 @@
-if [ -z $1 ] || [ -z $2 ]; then
+
+if [ -z $1 ] || [ -z $2 ] ; then
   echo "third parameter is the find maxdepth for directory"
-  echo './git-pull.sh "/Users/rossypro/Downloads" 3'
-  echo './git-pull.sh "/Users/rossypro/Downloads/LOG210-LAB0"  2' 
-  echo './git-pull.sh "/Users/rossypro/Downloads/LOG210-LAB1/yvan"  1'
+  echo './mvn-test.sh "/Users/rossypro/Downloads/LOG121-strategie/"  2' 
+  echo './mvn-test.sh "/Users/rossypro/Downloads/LOG121-strategie/034059/yvan"  1'
 else 
   clear
   counter=0
@@ -11,6 +11,8 @@ else
     cd "$group"
     echo "------------------------------------------------------------------- "
     echo "$counter => $group"
-      git pull --no-edit
+    mvn install
+    mvn testj
   done
 fi
+

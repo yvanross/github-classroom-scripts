@@ -1,0 +1,73 @@
+AQ20010;Lab #0 Remise;100.0;Esteban Defrance ;AQ20010;76;0;76
+AQ35200;Lab #0 Remise;100.0;Zhao Li Xiao;doggopogo;76;0;76
+AQ30990;Lab #0 Remise;100.0;Charles Gagnon;chargag;76;0;76
+AQ52550;Lab #0 Remise;100.0;Dylan Corfmat;DylanCorfmat;80;0;80
+AQ46790;Lab #0 Remise;100.0;Dave Vouma-Gagnon;dvoumagagnon;76;0;76
+AQ69000;Lab #0 Remise;100.0;Ariela Teodora Somfelean;arielasomfelean;77;0;77
+AQ23710;Lab #0 Remise;100.0;Lyam Allard-Hamelin;Lyam1223;76;0;76
+AP18700;Lab #0 Remise;100.0;Eduardo Loza-Rojas;EduardoLozaRojas;75;0;75
+AQ32190;Lab #0 Remise;100.0;Nimai Jariwala;S1lver-Owl;78;0;78
+AQ15150;Lab #0 Remise;100.0;Huynh Bai Thoa Philip;HPhilly;97;0;97
+AQ10560;Lab #0 Remise;100.0;Hoang Ngoc Han Pham;23Nana;77;0;77
+AQ05740;Lab #0 Remise;100.0;Gabriel Moisan Matte;gab9281;75;0;75
+AQ16000;Lab #0 Remise;100.0;Maxence Gallizioli;eurotool;78;0;78
+AQ70950;Lab #0 Remise;100.0;Alexandre Lebeau;Lebeau-Alexandre;96;0;96
+an88940;Lab #0 Remise;100.0;Marc-André Despins;MarcAndreDespins;96;0;96
+AQ16070;Lab #0 Remise;100.0;Savannah Dubreuil;sdubreuil-ets;76;0;76
+AQ56440;Lab #0 Remise;100.0;Ariel Sashcov;arielsashcov;77;0;77
+AQ16200;Lab #0 Remise;100.0;Philippe Doyon;bloc-notes;77;0;77
+AQ28400;Lab #0 Remise;100.0;Michel Dang;mcd99;97;0;97
+an16210;Lab #0 Remise;88.4;Mohamed Amine Zakaria;MoonlightSonataa;76;5;71
+AQ19450;Lab #0 Remise;100.0;Mohamed Chraiet;chraiet;76;0;76
+AP13310;Lab #0 Remise;100.0;Dickson Chea;DicksonChea;77;0;77
+AN56090;Lab #0 Remise;100.0;Arthur Bousquet;ArthurBousquet;78;0;78
+AQ54360;Lab #0 Remise;100.0;Mohamed AFFOUNE;medaffoune;74;0;74
+AQ65190;Lab #0 Remise;100.0;Gabriel Braun - Grenier;gabrielgrenier;74;0;74
+AQ51180;Lab #0 Remise;100.0;Royg Alberto Garcia Alvarez;drpeppapool;75;0;75
+AQ37460;Lab #0 Remise;100.0;RICHARD François;FrancoisRchrd;74;0;74
+AP71850;Lab #0 Remise;100.0;Hadrien Renault;hadren-cloud;77;0;77
+AQ10350;Lab #0 Remise;100.0;Tri Nguyen;TriNguyen910;79;0;79
+AP63570;Lab #0 Remise;100.0;Farouk Baaziz;FaroukBz;77;0;77
+AQ23820;Lab #0 Remise;100.0;Naorin Khan;naorinn;76;0;76
+AQ27810;Lab #0 Remise;100.0;Hadi Warda;Ikkaihatsu;76;0;76
+AQ28210;Lab #0 Remise;100.0;Margarita Pak;xMargox;77;0;77
+AQ25540;Lab #0 Remise;40.0;Alexandre Bertrand;LeCanadienAlexo;78;27;51
+AP52400;Lab #0 Remise;100.0;Ryad Meftahi;MrRyado;77;0;77
+AN81680;Lab #0 Remise;100.0;Kevin Chenier;KevinChenier;77;0;77
+AQ26770;Lab #0 Remise;100.0;Hugo Turgeon-Nozaki;HugoTurgeon-Nozaki;76;0;76
+AQ23980;Lab #0 Remise;100.0;Chhan Jacky;ChhanJackyEts;98;0;98
+AQ36420;Lab #0 Remise;100.0;He Sun;sunhe1;75;0;75
+2050559;Lab #0 Remise;86.7;Joël Privé;JoelPrive;78;6;72
+AQ31950;Lab #0 Remise;100.0;Roodney Aladin;CryoBeamR;76;0;76
+AP76170;Lab #0 Remise;100.0;Willy Kao;kaowilly;76;0;76
+AQ48730;Lab #0 Remise;100.0;Jeff Martin;JeffMartinGTI;78;0;78
+AP63180;Lab #0 Remise;100.0;Baptiste Tremblay;babatremblay;78;0;78
+AQ18550;Lab #0 Remise;100.0;Élaine Soucy;elainesoucy;77;0;77
+AQ15560;Lab #0 Remise;100.0;Arthur Weber;ArthurWG03;76;0;76
+AQ17430;Lab #0 Remise;100.0;Marco Caballero;CaballeroM;78;0;78
+AQ38680;Lab #0 Remise;100.0;Maxime Chaussé;mchausse;75;0;75
+AQ36610;Lab #0 Remise;100.0;Thuan Vinh Marcel Chung-Thai;mchth;99;0;99
+AQ17170;Lab #0 Remise;100.0;Bogdan Rusu;BogdanRusu-03;83;0;83
+AQ11730;Lab #0 Remise;100.0;Zakaria-Meziane Souadda;ZakariaSouadda;75;0;75
+AQ17740;Lab #0 Remise;100.0;Frédéric Labelle;fritessauces;97;0;97
+AQ16160;Lab #0 Remise;100.0;Michael Couet;mcouet;76;0;76
+AQ18160;Lab #0 Remise;100.0;Sadia Hussain;hussain-sadia;76;0;76
+AP72930;Lab #0 Remise;100.0;Keny Noze;shadoken;76;0;76
+AP71780;Lab #0 Remise;100.0;Mylène Rousseau;Mylene599;76;0;76
+AQ21550;Lab #0 Remise;93.3;Juan Esteban Ladino;soloestebann;78;3;75
+AQ18760;Lab #0 Remise;100.0;Emon Dhar;emondhar;97;0;97
+AQ15940;Lab #0 Remise;100.0;Mihai Armasaru;BarneysPlayhouse;76;0;76
+AQ15630;Lab #0 Remise;18.6;Vincent Bérubé;VincentBerube;76;35;41
+ap57970;Lab #0 Remise;20.9;Edwin Zelaya-diaz;EdwinZDiaz;76;34;42
+AQ19290;Lab #0 Remise;100.0;William Gingras;craftwill;76;0;76
+AQ65370;Lab #0 Remise;100.0;Charles Laganière;TheBigBear1;77;0;77
+AQ15880;Lab #0 Remise;100.0;Niv Abecassis;nivabecassis;75;0;75
+AQ23370;Lab #0 Remise;100.0;William Marcoux;WilliamMarcoux-MARW08039809;98;0;98
+AQ44190;Lab #0 Remise;52.4;Sebastien Goulet;sebastiengoulet;75;20;55
+AJ83460;Lab #0 Remise;100.0;Youssef Hammami;yhammami;79;0;79
+AP55950;Lab #0 Remise;100.0;Carl Gosselin;carlgosselin;77;0;77
+AQ26060;Lab #0 Remise;100.0;Naomi Catwell;naomi-rc;77;0;77
+AQ35290;Lab #0 Remise;100.0;Pascal Kameni;pascal1796;77;0;77
+AQ11790;Lab #0 Remise;100.0;Antoine Brassard Lahey;Antoine-BL;96;0;96
+AQ53040;Lab #0 Remise;95.2;Léonard Bonfils;EK230948230598;75;2;73
+AQ19760;Lab #0 Remise;100.0;Clementine DAmoursGravel;clementine130;74;0;74
