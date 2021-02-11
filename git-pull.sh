@@ -11,6 +11,6 @@ else
     cd "$group"
     echo "------------------------------------------------------------------- "
     echo "$counter => $group"
-      git pull --no-edit
+      git pull origin master --no-edit
   done
 fi

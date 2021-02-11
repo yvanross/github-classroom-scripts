@@ -15,6 +15,6 @@ else
     git pull
     git add .
     git commit -am "$2"
-    git push 
+    git push --set-upstream origin master
   done
 fi

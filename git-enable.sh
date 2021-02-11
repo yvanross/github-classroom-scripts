@@ -7,19 +7,19 @@ if [ -z "$1" ]; then
   exit 0
 fi
 clear
-for root in "$1/*"; do
-  for group in $root/*; do
-    cd "$group"
+for group in $(find $1 -maxdepth $2 -type d); do
+     cd "$group"
+     
     echo "$group"
     origin=$(git remote get-url --push origin)
-    case "$origin" in *token*)
-      new_origin=$(git remote get-url --push origin | cut -c 65-1000)
+    if [[ $origin == *"@github.com:cc-yvan"* ]]; then
+      echo "already modified"
+    else
+      new_origin="${origin#*/}"
       new_origin=$(echo "git@github.com:$new_origin")
       git remote remove origin
       git remote add origin $new_origin
-      ;;
-    esac
-  done  
+    fi
 done
 
 

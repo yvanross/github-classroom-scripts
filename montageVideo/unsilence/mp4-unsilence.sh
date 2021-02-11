@@ -12,7 +12,7 @@ seance_dir=$1
 out_dir=$2
 silence_level=$3
 
-for f in $1/*.mp4; do
+for f in $1/*.m*; do
   echo "$f"
   filename=$(basename $f)
   out_filename="$out_dir/$filename"
