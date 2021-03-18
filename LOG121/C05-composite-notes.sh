@@ -2,7 +2,7 @@
 report_name="S20211-C05.txt"
 metric="C05-composite"
 if [ -z $1 ] || [ -z $2 ]; then
-  echo './c05-composite-notes.sh "/Users/rossypro/Downloads/LOG121-C05-composite/S20211-LOG121-03-C05-composite-individuel-02-08-2021-07-17-18" 1' 
+  echo './c05-composite-notes.sh "/Users/rossypro/Downloads/LOG121-C05-composite" 2' 
 else 
     current_dir=$(pwd)
   clear

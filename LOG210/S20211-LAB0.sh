@@ -1,11 +1,11 @@
 if [ -z $1 ] || [ -z $2 ]; then
   echo "third parameter is the find maxdepth for directory"
-  echo './s20211-lab0.sh "/Users/rossypro/Downloads/LOG210-LAB0"  2' 
-  echo './s20211-lab0.sh "/Users/rossypro/Downloads/LOG210-LAB1/yvan"  1'
+  echo './s20211-lab0.sh "/Users/rossypro/Downloads/LOG210-lab0"  2' 
 else 
     current_dir=$(pwd)
   clear
   counter=0
+  rm $current_dir/S20211-LAB0.txt
   for root in $(find $1 -maxdepth $2 -type d); do
     counter=$(( $counter + 1 ))
     cd "$root"

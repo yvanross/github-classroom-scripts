@@ -2,7 +2,7 @@ if [ -z $1 ] || [ -z $2 ]; then
   echo "third parameter is the find maxdepth for directory"
   echo './git-pull.sh "/Users/rossypro/Downloads" 3'
   echo './git-pull.sh "/Users/rossypro/Downloads/LOG210-LAB0"  2' 
-  echo './git-pull.sh "/Users/rossypro/Downloads/LOG210-LAB1/yvan"  1'
+  echo './git-pull.sh "/Users/rossypro/Downloads/LOG210-LAB01/yvan"  1'
 else 
   clear
   counter=0

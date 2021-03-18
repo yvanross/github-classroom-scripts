@@ -10,7 +10,8 @@ end
 puts 'Gems installed and loaded!'
 
 require 'rubyXL/convenience_methods'
-notes = RubyXL::Parser.parse("/Volumes/GoogleDrive/Mon disque/S20211-charge-laboratoires/LOG121/S20211-C05.xlsx").worksheets[0]
+
+notes = RubyXL::Parser.parse("/Users/rossypro/sources/ets/github-classroom-scripts/log121/LOG121-notes.xlsx").worksheets[0]
 workbook1 = RubyXL::Parser.parse("/Volumes/GoogleDrive/Mon disque/S20211-charge-laboratoires/LOG121/G03/LOG121_03_20211.xlsx")
 workbook2 = RubyXL::Parser.parse("/Volumes/GoogleDrive/Mon disque/S20211-charge-laboratoires/LOG121/G05/LOG121_05_20211.xlsx")
 
