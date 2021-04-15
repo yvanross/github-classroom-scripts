@@ -43,7 +43,9 @@ end
 def updateNote(signets,worksheet,row)
     return if worksheet[row].nil?
     return if worksheet[row][0].nil?
+   
     code = worksheet[row][0].value # Returns cell A1 in the worksheet
+    # Assurez vous de séparer les données en plusieurs colonnes avec le point-virgule
     metric = worksheet[row][1].value # Returns cell A1 in the worksheet
     note = worksheet[row][2].value # Returns cell A1 in the worksheet
     if worksheet[row][3].nil?

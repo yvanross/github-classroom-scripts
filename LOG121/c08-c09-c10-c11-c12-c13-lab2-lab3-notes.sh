@@ -4,11 +4,16 @@ report_name="LOG121-notes.txt"
 metrics=("C08-memento":"/Users/rossypro/Downloads/LOG121-C08-memento"
         "C09-mediateur":"/Users/rossypro/Downloads/LOG121-C09-mediateur"
         "C10-MP1":"/Users/rossypro/Downloads/LOG121-C10-MP1"
-        "Lab02":"/Users/rossypro/Downloads/LOG121-LAB2")
+        "C11-MP2":"/Users/rossypro/Downloads/LOG121-C11-MP2"
+        "C12-MP3":"/Users/rossypro/Downloads/LOG121-C12-MP3"
+        "C13-MP4":"/Users/rossypro/Downloads/LOG121-C13-MP4"
+        "Lab02":"/Users/rossypro/Downloads/LOG121-LAB2"
+        "Lab03":"/Users/rossypro/Downloads/LOG121-LAB3"
+        )
 
 
 if [ -z $1 ]; then
-  echo './c08-c09-c10-notes.sh  2' 
+  echo './c08-c09-c10-c11-lab02-notes.sh  2' 
 else 
   current_dir=$(pwd)
   clear
@@ -27,7 +32,7 @@ else
             continue;
         fi
         note=$(cat correction.txt| awk 'BEGIN {FS=":"}; {printf "%4.1f",($2)}')
-        printf "%s likes to %s.\n" "$metric_name" "$root"
+        printf "\n%s in directories of %s\n" "$metric_name" "$root"
 
         # note=$(cat correction-result.txt | grep "<total>"|sed 's/<total>//g'|sed 's/<\/total>//g')
         # note=$(echo $note | awk '{printf "%4.1f",($1)}')

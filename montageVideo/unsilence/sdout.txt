@@ -16,7 +16,7 @@ Input #0, mp3, from 'fileaudio.mp3':
     minor_version   : 512
     compatible_brands: isomiso2avc1mp41
     encoder         : Lavf58.45.100
-  Duration: 00:00:19.04, start: 0.025057, bitrate: 128 kb/s
+  Duration: 00:59:14.22, start: 0.025057, bitrate: 128 kb/s
     Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 128 kb/s
     Metadata:
       encoder         : Lavc58.91
@@ -32,7 +32,13 @@ Output #0, null, to 'pipe:':
     Stream #0:0: Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s
     Metadata:
       encoder         : Lavc58.91.100 pcm_s16le
-[silencedetect @ 0x7fa3b6710d80] silence_start: 0
-size=N/A time=00:00:19.01 bitrate=N/A speed= 511x    
-video:0kB audio:3276kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
-[silencedetect @ 0x7fa3b6710d80] silence_end: 19.0171 | silence_duration: 19.0171
+[silencedetect @ 0x7f8784004e00] silence_start: 5.51073
+[silencedetect @ 0x7f8784004e00] silence_end: 8.98374 | silence_duration: 3.47302
+[silencedetect @ 0x7f8784004e00] silence_start: 63.9476
+[silencedetect @ 0x7f8784004e00] silence_end: 67.622 | silence_duration: 3.67442
+size=N/A time=00:04:51.42 bitrate=N/A speed= 583x    size=N/A time=00:09:28.97 bitrate=N/A speed= 569x    size=N/A time=00:14:05.06 bitrate=N/A speed= 563x    size=N/A time=00:18:48.43 bitrate=N/A speed= 564x    size=N/A time=00:23:33.66 bitrate=N/A speed= 565x    size=N/A time=00:28:25.45 bitrate=N/A speed= 568x    size=N/A time=00:33:08.59 bitrate=N/A speed= 568x    size=N/A time=00:37:59.28 bitrate=N/A speed= 570x    size=N/A time=00:42:55.93 bitrate=N/A speed= 572x    size=N/A time=00:47:46.41 bitrate=N/A speed= 573x    size=N/A time=00:52:38.04 bitrate=N/A speed= 574x    [silencedetect @ 0x7f8784004e00] silence_start: 3263.89
+[silencedetect @ 0x7f8784004e00] silence_end: 3267.29 | silence_duration: 3.39329
+size=N/A time=00:57:29.81 bitrate=N/A speed= 575x    [silencedetect @ 0x7f8784004e00] silence_start: 3544.25
+[silencedetect @ 0x7f8784004e00] silence_end: 3550.51 | silence_duration: 6.25664
+size=N/A time=00:59:14.18 bitrate=N/A speed= 574x    
+video:0kB audio:612264kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown

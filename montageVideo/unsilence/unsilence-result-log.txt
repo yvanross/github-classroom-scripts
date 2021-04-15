@@ -9084,3 +9084,428 @@ dureee video = 3.92078333333min
 0.317766666667min
 duree silence = 0.317766666667min
 dureee video = 0.0min
+
+-------------------------------------------
+['4.66016', '80.9623', '189.557', '265.64', '573.508', '608.403', '852.97', '1292.45', '1758.68', '1763.19', '1770.95', '1788.39', '1800.74', '1821.64', '1828.65', '1839.48', '1852.6', '1860.48', '1863.66', '1875.48', '1994.4', '1998.41', '2010.67', '2031.26', '2042.3', '2294.59', '2310', '2335.63', '2487.2']
+['11.4037', '84.6802', '196.479', '271.004', '576.856', '612.785', '859.473', '1299.01', '1761.69', '1770.75', '1784.99', '1800.22', '1813.79', '1828.06', '1837.9', '1844.21', '1857.28', '1863.66', '1870.77', '1880.69', '1998.41', '2009.6', '2024.76', '2042.29', '2068.05', '2298.75', '2316.25', '2338.75', '2491.78']
+41.5444333333min
+ffmpeg -hide_banner -loglevel panic -ss 0 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 4.66016 tempclip0.mp4
+ffmpeg -hide_banner -loglevel panic -ss 11.4037 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 69.5586  tempclip1.mp4
+ffmpeg -hide_banner -loglevel panic -ss 84.6802 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 104.8768  tempclip2.mp4
+ffmpeg -hide_banner -loglevel panic -ss 196.479 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 69.161  tempclip3.mp4
+ffmpeg -hide_banner -loglevel panic -ss 271.004 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 302.504  tempclip4.mp4
+ffmpeg -hide_banner -loglevel panic -ss 576.856 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 31.547  tempclip5.mp4
+ffmpeg -hide_banner -loglevel panic -ss 612.785 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 240.185  tempclip6.mp4
+ffmpeg -hide_banner -loglevel panic -ss 859.473 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 432.977  tempclip7.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1299.01 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 459.67  tempclip8.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1761.69 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 1.5  tempclip9.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1784.99 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 3.4  tempclip11.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1813.79 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 7.85  tempclip13.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1837.9 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 1.58  tempclip15.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1844.21 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 8.39  tempclip16.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1857.28 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 3.2  tempclip17.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1870.77 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 4.71  tempclip19.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1880.69 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 113.71  tempclip20.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2009.6 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 1.07  tempclip22.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2024.76 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 6.5  tempclip23.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2068.05 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 226.54  tempclip25.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2298.75 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 11.25  tempclip26.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2316.25 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 19.38  tempclip27.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2338.75 -i "/Users/rossypro/Documents/Zoom/LOG121-C10-Metrique-qualite-code-patron-visiteur.mp4" -t 148.45  tempclip28.mp4
+duree silence = 3.66660733333min
+dureee video = 37.877826min
+
+-------------------------------------------
+['0', '6.3615', '220.953', '247.069', '319.999', '324.904', '335.679', '383.733', '969.036', '1008.26', '1246.23', '1495.52', '1523.15', '1526.72', '1542.31', '2107.69', '2126.61', '2138.27', '2424.43', '2708.27', '2720.31', '2728.26', '2767.37', '2780.63', '2788.2', '2806.08', '2949.31', '3006', '3070.75', '3103.78', '3129.58', '3157.86', '3214.7', '3251.64', '3255.22', '3262.42', '3270.05', '3329.85', '3359.1', '3497.36', '3536.74', '3685.61', '3732.59', '3736.8', '3741.3', '3748.74', '3756.22', '3765.05', '3774.93', '3783.3', '3892.94', '3925.37', '3964.77', '3979.67', '3992.18', '4006.12', '4028.58', '4048.88', '4065.72', '4102.15', '4119.86', '4133.42', '4147.45', '4153.7', '4163.57', '4207.29', '4217.85', '4243.99', '4295.22', '4312.42', '4321.81', '4354.37', '4370.15', '4379.73', '4385.93', '4393.29', '4402.03', '4416.71', '4446.97', '4461.32', '4491.43', '4496.76', '4501.77', '4518.75', '4526.43', '4539.85', '4569.09', '4573.43', '4587.09', '4592.04', '4609.05', '4640.44', '4651.42', '4656.28', '4953.49', '4966.92', '4985.91', '4999.97', '5018.92', '5089.3', '5098.58', '5105.5', '5111.81', '5133.45', '5141.21', '5158.33', '5200.15', '5211.38', '5225.13', '5271.56', '5392.79', '5486.9', '5503.54', '5511.54', '5539.08', '5542.2', '5566.51', '5594.48', '5688.99', '5693.42', '5698.18', '5707.02', '5713.5', '5718.51', '5727.64', '5732.44', '5738.43', '5747.89', '5765.6', '5779.68', '5828.64', '5836.94', '5847.04', '5881.1', '5947.48', '5965.45', '5981.77', '6009.09', '6012.72', '6121.17', '6156.59', '6161.29', '6181.83', '6231.17', '6238.04']
+['4.79179', '9.9795', '225.41', '250.471', '323.366', '330.759', '339.439', '386.991', '972.705', '1017.49', '1250.39', '1500.13', '1526.25', '1531.16', '1545.84', '2113.73', '2137.61', '2424.39', '2704.53', '2717.51', '2728.21', '2731.47', '2775.34', '2783.89', '2806.08', '2949.3', '3005.87', '3068.85', '3103.78', '3129.58', '3157.11', '3212.97', '3250.56', '3255.08', '3260.65', '3268.53', '3329.62', '3353.07', '3367.25', '3508.57', '3540.23', '3692.17', '3736.23', '3740.49', '3747.51', '3753.02', '3761.17', '3772.73', '3781.78', '3805.83', '3897.71', '3931.76', '3972.31', '3985.88', '4002.72', '4009.96', '4035.64', '4057.04', '4069.67', '4113', '4123.08', '4142.14', '4151.22', '4158.27', '4172.15', '4211.33', '4222.86', '4251.52', '4309.55', '4321.62', '4342.79', '4359.77', '4376.35', '4383.22', '4392.82', '4398.25', '4405.35', '4421.62', '4451.85', '4464.83', '4495.69', '4501.24', '4509.29', '4524.11', '4534.85', '4543.84', '4573.01', '4576.78', '4591.1', '4603.81', '4613.46', '4643.75', '4655.57', '4660.85', '4957.35', '4979.12', '4994.11', '5007.89', '5024.04', '5094.93', '5103.38', '5108.56', '5116.41', '5139.18', '5144.95', '5162.47', '5203.76', '5215.1', '5228.3', '5275.05', '5397.72', '5490.17', '5510.97', '5526.23', '5542.2', '5547.9', '5573.61', '5598.26', '5692.11', '5698.18', '5705.22', '5713.44', '5717.97', '5725.75', '5732.36', '5738.37', '5741.62', '5756.15', '5776.03', '5784.02', '5833.78', '5847.04', '5852.98', '5884.17', '5950.91', '5970.17', '5987.35', '6012.34', '6016.05', '6125.25', '6160.92', '6168.83', '6189.79', '6234.84', '6251.25']
+104.188316667min
+ffmpeg -hide_banner -loglevel panic -ss 4.79179 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.56971  tempclip1.mp4
+ffmpeg -hide_banner -loglevel panic -ss 9.9795 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 210.9735  tempclip2.mp4
+ffmpeg -hide_banner -loglevel panic -ss 225.41 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 21.659  tempclip3.mp4
+ffmpeg -hide_banner -loglevel panic -ss 250.471 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 69.528  tempclip4.mp4
+ffmpeg -hide_banner -loglevel panic -ss 323.366 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.538  tempclip5.mp4
+ffmpeg -hide_banner -loglevel panic -ss 330.759 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 4.92  tempclip6.mp4
+ffmpeg -hide_banner -loglevel panic -ss 339.439 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 44.294  tempclip7.mp4
+ffmpeg -hide_banner -loglevel panic -ss 386.991 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 582.045  tempclip8.mp4
+ffmpeg -hide_banner -loglevel panic -ss 972.705 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 35.555  tempclip9.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1017.49 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 228.74  tempclip10.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1250.39 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 245.13  tempclip11.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1500.13 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 23.02  tempclip12.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1531.16 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 11.15  tempclip14.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1545.84 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 561.85  tempclip15.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2113.73 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 12.88  tempclip16.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2704.53 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.74  tempclip19.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2717.51 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.8  tempclip20.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2731.47 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 35.9  tempclip22.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2775.34 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 5.29  tempclip23.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2783.89 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 4.31  tempclip24.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3068.85 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.9  tempclip28.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3212.97 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.73  tempclip32.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3250.56 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.08  tempclip33.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3260.65 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.77  tempclip35.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3268.53 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.52  tempclip36.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3353.07 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 6.03  tempclip38.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3367.25 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 130.11  tempclip39.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3508.57 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 28.17  tempclip40.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3540.23 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 145.38  tempclip41.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3692.17 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 40.42  tempclip42.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3747.51 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.23  tempclip45.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3753.02 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.2  tempclip46.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3761.17 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.88  tempclip47.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3772.73 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.2  tempclip48.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3781.78 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.52  tempclip49.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3805.83 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 87.11  tempclip50.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3897.71 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 27.66  tempclip51.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3931.76 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 33.01  tempclip52.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3972.31 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 7.36  tempclip53.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3985.88 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 6.3  tempclip54.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4002.72 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.4  tempclip55.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4009.96 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 18.62  tempclip56.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4035.64 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 13.24  tempclip57.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4057.04 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 8.68  tempclip58.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4069.67 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 32.48  tempclip59.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4113 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 6.86  tempclip60.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4123.08 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 10.34  tempclip61.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4142.14 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 5.31  tempclip62.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4151.22 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.48  tempclip63.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4158.27 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 5.3  tempclip64.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4172.15 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 35.14  tempclip65.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4211.33 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 6.52  tempclip66.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4222.86 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 21.13  tempclip67.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4251.52 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 43.7  tempclip68.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4309.55 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.87  tempclip69.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4342.79 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 11.58  tempclip71.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4359.77 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 10.38  tempclip72.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4376.35 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.38  tempclip73.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4383.22 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.71  tempclip74.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4398.25 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.78  tempclip76.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4405.35 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 11.36  tempclip77.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4421.62 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 25.35  tempclip78.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4451.85 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 9.47  tempclip79.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4464.83 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 26.6  tempclip80.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4495.69 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.07  tempclip81.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4509.29 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 9.46  tempclip83.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4524.11 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.32  tempclip84.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4534.85 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 5.0  tempclip85.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4543.84 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 25.25  tempclip86.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4576.78 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 10.31  tempclip88.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4603.81 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 5.24  tempclip90.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4613.46 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 26.98  tempclip91.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4643.75 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 7.67  tempclip92.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4660.85 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 292.64  tempclip94.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4957.35 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 9.57  tempclip95.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4979.12 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 6.79  tempclip96.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4994.11 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 5.86  tempclip97.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5007.89 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 11.03  tempclip98.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5024.04 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 65.26  tempclip99.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5094.93 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.65  tempclip100.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5103.38 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.12  tempclip101.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5108.56 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.25  tempclip102.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5116.41 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 17.04  tempclip103.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5139.18 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 2.03  tempclip104.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5144.95 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 13.38  tempclip105.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5162.47 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 37.68  tempclip106.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5203.76 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 7.62  tempclip107.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5215.1 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 10.03  tempclip108.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5228.3 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 43.26  tempclip109.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5275.05 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 117.74  tempclip110.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5397.72 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 89.18  tempclip111.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5490.17 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 13.37  tempclip112.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5526.23 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 12.85  tempclip114.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5547.9 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 18.61  tempclip116.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5573.61 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 20.87  tempclip117.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5598.26 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 90.73  tempclip118.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5692.11 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.31  tempclip119.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5705.22 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.8  tempclip121.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5725.75 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 1.89  tempclip124.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5741.62 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 6.27  tempclip127.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5756.15 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 9.45  tempclip128.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5776.03 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.65  tempclip129.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5784.02 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 44.62  tempclip130.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5833.78 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.16  tempclip131.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5852.98 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 28.12  tempclip133.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5884.17 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 63.31  tempclip134.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5950.91 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 14.54  tempclip135.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5970.17 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 11.6  tempclip136.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5987.35 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 21.74  tempclip137.mp4
+ffmpeg -hide_banner -loglevel panic -ss 6016.05 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 105.12  tempclip139.mp4
+ffmpeg -hide_banner -loglevel panic -ss 6125.25 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 31.34  tempclip140.mp4
+ffmpeg -hide_banner -loglevel panic -ss 6168.83 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 13.0  tempclip142.mp4
+ffmpeg -hide_banner -loglevel panic -ss 6189.79 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 41.38  tempclip143.mp4
+ffmpeg -hide_banner -loglevel panic -ss 6234.84 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-diagramme-interaction.mp4" -t 3.2  tempclip144.mp4
+duree silence = 31.6464465min
+dureee video = 72.5418701667min
+
+-------------------------------------------
+['230', '234.482', '787.419', '799.431', '809.443', '845.535', '926.609', '1085.09', '1092.86', '1109.31', '1118.24', '1130.99', '1154.57', '1231.44', '1234.85', '1250.29', '1261.13', '1303.28', '1769.33']
+['233.314', '240.605', '791.246', '804.338', '813.512', '849.175', '929.998', '1088.11', '1107.4', '1116.44', '1124.12', '1134.09', '1157.99', '1234.64', '1239.94', '1254.23', '1272.39', '1306.85', '1773.98']
+29.5672min
+ffmpeg -hide_banner -loglevel panic -ss 0 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 230 tempclip0.mp4
+ffmpeg -hide_banner -loglevel panic -ss 233.314 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 1.168  tempclip1.mp4
+ffmpeg -hide_banner -loglevel panic -ss 240.605 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 546.814  tempclip2.mp4
+ffmpeg -hide_banner -loglevel panic -ss 791.246 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 8.185  tempclip3.mp4
+ffmpeg -hide_banner -loglevel panic -ss 804.338 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 5.105  tempclip4.mp4
+ffmpeg -hide_banner -loglevel panic -ss 813.512 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 32.023  tempclip5.mp4
+ffmpeg -hide_banner -loglevel panic -ss 849.175 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 77.434  tempclip6.mp4
+ffmpeg -hide_banner -loglevel panic -ss 929.998 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 155.092  tempclip7.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1088.11 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 4.75  tempclip8.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1107.4 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 1.91  tempclip9.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1116.44 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 1.8  tempclip10.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1124.12 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 6.87  tempclip11.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1134.09 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 20.48  tempclip12.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1157.99 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 73.45  tempclip13.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1239.94 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 10.35  tempclip15.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1254.23 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 6.9  tempclip16.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1272.39 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 30.89  tempclip17.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1306.85 -i "/Users/rossypro/Documents/Zoom/LOG210-C10-travail-equipe.mp4" -t 462.48  tempclip18.mp4
+duree silence = 1.63885min
+dureee video = 27.92835min
+
+-------------------------------------------
+['3.29435', '48.428', '113.109', '163.81', '171.665', '176.01', '223.902', '235.114', '252.181', '261.307', '278.826', '304.447', '377.484', '388.166', '397.461', '430.626', '448.888', '453.14', '536.583', '552.368', '599.854', '605.18', '610.305', '613.528', '645.996', '717.212', '727.518', '734.684', '790.211', '1248.91', '1255.24', '1261.55', '1654.18', '1678.72', '1703.75', '2445.21', '2449.89', '2479.13', '2862.97', '2982.03', '3013.75', '3024.8', '3041.69', '3050.24', '3056.17', '3062.14', '3078.02', '3082.55', '3093.95', '3099.47', '3141.32', '3187.07', '3192.44', '3217.54', '3272.97', '3548.64', '3593.26', '3636.01', '3675.66', '3683.73', '3691.79', '3710.55', '3718.11', '3728.29', '3767.93', '3982.04', '4093.08', '4103.66', '4112.26', '4116.46', '4387.1', '4394.47', '4613.6', '4679.97', '4999.82', '5003.53', '5006.92', '5054.19', '5065.48', '5139.27']
+['8.68524', '54.2844', '122.076', '167.441', '174.872', '180.881', '232.466', '240.101', '258.53', '271.364', '283.925', '310.408', '387.134', '392.93', '403.369', '441.239', '452.023', '456.301', '540.994', '555.869', '603.515', '608.806', '613.528', '623.639', '651.49', '721.682', '730.542', '739.2', '793.422', '1252.21', '1260.59', '1265.76', '1678.03', '1697.07', '1708.09', '2448.69', '2457.05', '2483.13', '2866.22', '2986.63', '3016.91', '3031.2', '3046.47', '3055.37', '3061.19', '3067.43', '3082.46', '3091.16', '3096.98', '3104.26', '3145.05', '3190.25', '3199.51', '3226.38', '3277.83', '3592.28', '3636', '3672.58', '3681.99', '3688.64', '3697.27', '3713.74', '3728.29', '3749.59', '3771.3', '3986.71', '4099.02', '4109.42', '4115.43', '4385.99', '4394.44', '4613.6', '4679.97', '4716.48', '5003.35', '5006.92', '5010.07', '5058.7', '5135.73', '5210.53']
+86.8433166667min
+ffmpeg -hide_banner -loglevel panic -ss 0 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 3.29435 tempclip0.mp4
+ffmpeg -hide_banner -loglevel panic -ss 8.68524 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 39.74276  tempclip1.mp4
+ffmpeg -hide_banner -loglevel panic -ss 54.2844 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 58.8246  tempclip2.mp4
+ffmpeg -hide_banner -loglevel panic -ss 122.076 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 41.734  tempclip3.mp4
+ffmpeg -hide_banner -loglevel panic -ss 167.441 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 4.224  tempclip4.mp4
+ffmpeg -hide_banner -loglevel panic -ss 174.872 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.138  tempclip5.mp4
+ffmpeg -hide_banner -loglevel panic -ss 180.881 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 43.021  tempclip6.mp4
+ffmpeg -hide_banner -loglevel panic -ss 232.466 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 2.648  tempclip7.mp4
+ffmpeg -hide_banner -loglevel panic -ss 240.101 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 12.08  tempclip8.mp4
+ffmpeg -hide_banner -loglevel panic -ss 258.53 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 2.777  tempclip9.mp4
+ffmpeg -hide_banner -loglevel panic -ss 271.364 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 7.462  tempclip10.mp4
+ffmpeg -hide_banner -loglevel panic -ss 283.925 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 20.522  tempclip11.mp4
+ffmpeg -hide_banner -loglevel panic -ss 310.408 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 67.076  tempclip12.mp4
+ffmpeg -hide_banner -loglevel panic -ss 387.134 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.032  tempclip13.mp4
+ffmpeg -hide_banner -loglevel panic -ss 392.93 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 4.531  tempclip14.mp4
+ffmpeg -hide_banner -loglevel panic -ss 403.369 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 27.257  tempclip15.mp4
+ffmpeg -hide_banner -loglevel panic -ss 441.239 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 7.649  tempclip16.mp4
+ffmpeg -hide_banner -loglevel panic -ss 452.023 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.117  tempclip17.mp4
+ffmpeg -hide_banner -loglevel panic -ss 456.301 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 80.282  tempclip18.mp4
+ffmpeg -hide_banner -loglevel panic -ss 540.994 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 11.374  tempclip19.mp4
+ffmpeg -hide_banner -loglevel panic -ss 555.869 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 43.985  tempclip20.mp4
+ffmpeg -hide_banner -loglevel panic -ss 603.515 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.665  tempclip21.mp4
+ffmpeg -hide_banner -loglevel panic -ss 608.806 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.499  tempclip22.mp4
+ffmpeg -hide_banner -loglevel panic -ss 623.639 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 22.357  tempclip24.mp4
+ffmpeg -hide_banner -loglevel panic -ss 651.49 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 65.722  tempclip25.mp4
+ffmpeg -hide_banner -loglevel panic -ss 721.682 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 5.836  tempclip26.mp4
+ffmpeg -hide_banner -loglevel panic -ss 730.542 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 4.142  tempclip27.mp4
+ffmpeg -hide_banner -loglevel panic -ss 739.2 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 51.011  tempclip28.mp4
+ffmpeg -hide_banner -loglevel panic -ss 793.422 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 455.488  tempclip29.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1252.21 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 3.03  tempclip30.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1265.76 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 388.42  tempclip32.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1697.07 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 6.68  tempclip34.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1708.09 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 737.12  tempclip35.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2448.69 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.2  tempclip36.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2457.05 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 22.08  tempclip37.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2483.13 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 379.84  tempclip38.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2866.22 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 115.81  tempclip39.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2986.63 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 27.12  tempclip40.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3016.91 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 7.89  tempclip41.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3031.2 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 10.49  tempclip42.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3046.47 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 3.77  tempclip43.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3067.43 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 10.59  tempclip46.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3091.16 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 2.79  tempclip48.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3096.98 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 2.49  tempclip49.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3104.26 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 37.06  tempclip50.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3145.05 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 42.02  tempclip51.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3190.25 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 2.19  tempclip52.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3199.51 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 18.03  tempclip53.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3226.38 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 46.59  tempclip54.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3277.83 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 270.81  tempclip55.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3672.58 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 3.08  tempclip58.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3681.99 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.74  tempclip59.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3688.64 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 3.15  tempclip60.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3697.27 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 13.28  tempclip61.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3713.74 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 4.37  tempclip62.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3749.59 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 18.34  tempclip64.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3771.3 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 210.74  tempclip65.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3986.71 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 106.37  tempclip66.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4099.02 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 4.64  tempclip67.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4109.42 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 2.84  tempclip68.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4115.43 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.03  tempclip69.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4385.99 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 1.11  tempclip70.mp4
+ffmpeg -hide_banner -loglevel panic -ss 4716.48 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 283.34  tempclip74.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5010.07 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 44.12  tempclip77.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5058.7 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 6.78  tempclip78.mp4
+ffmpeg -hide_banner -loglevel panic -ss 5135.73 -i "/Users/rossypro/Documents/Zoom/2021-03-30_18-01-18.mp4" -t 3.54  tempclip79.mp4
+duree silence = 21.2769715min
+dureee video = 65.5663451667min
+
+-------------------------------------------
+['4.25633', '50.0641', '56.7412', '82.5207', '90.767', '216.872', '493.463', '500.236', '513.391', '535.459', '725.721', '879.154', '1051.01', '1123.09', '1159.01', '1165.67', '1170.81', '1236.62', '1308.97', '1331.6', '1363.77', '1450.5', '1468.47', '1482.38', '1522.87', '1530.87', '1553.38', '1576.38', '1583.05', '1636.86', '1693.35', '1700.55', '1785.55', '1993.72', '2014.46', '2019.49', '2090.17', '2142.52', '2153.33', '2168.59', '2179.1', '2196.71', '2243.35', '2253.48', '2272.42', '2298.43', '2325.92', '2350.47', '2360.75', '2376.58', '2389.26', '2397.04', '2409.4', '2432.68', '2436.7', '2466.79', '2474.57', '2479.06', '2484.45', '2494.69', '2499.75', '2503.33', '2525.92', '2541.41', '2550.89', '2575.95']
+['19.0839', '56.7412', '63.1905', '88.3872', '109.515', '310.195', '500.06', '511.812', '517.819', '547.31', '730.665', '892.966', '1058.08', '1126.39', '1162.03', '1168.83', '1181.63', '1239.65', '1311.99', '1339.57', '1369.92', '1455.68', '1473.4', '1488.01', '1526.02', '1537.46', '1560.62', '1580.26', '1586.14', '1640.5', '1697.91', '1716.91', '1792.73', '1997.6', '2017.61', '2025.13', '2093.82', '2153.24', '2160.16', '2172.6', '2182.57', '2202.52', '2246.6', '2258.73', '2280.27', '2304.26', '2330.72', '2358.04', '2368.77', '2386.27', '2396.82', '2401.01', '2413.07', '2436.69', '2462.36', '2471.54', '2478.32', '2482.18', '2487.78', '2499.7', '2503.31', '2517.39', '2530.04', '2550.86', '2565.07', '2579.11']
+42.9861min
+ffmpeg -hide_banner -loglevel panic -ss 0 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 4.25633 tempclip0.mp4
+ffmpeg -hide_banner -loglevel panic -ss 19.0839 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 30.9802  tempclip1.mp4
+ffmpeg -hide_banner -loglevel panic -ss 63.1905 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 19.3302  tempclip3.mp4
+ffmpeg -hide_banner -loglevel panic -ss 88.3872 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 2.3798  tempclip4.mp4
+ffmpeg -hide_banner -loglevel panic -ss 109.515 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 107.357  tempclip5.mp4
+ffmpeg -hide_banner -loglevel panic -ss 310.195 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 183.268  tempclip6.mp4
+ffmpeg -hide_banner -loglevel panic -ss 511.812 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 1.579  tempclip8.mp4
+ffmpeg -hide_banner -loglevel panic -ss 517.819 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 17.64  tempclip9.mp4
+ffmpeg -hide_banner -loglevel panic -ss 547.31 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 178.411  tempclip10.mp4
+ffmpeg -hide_banner -loglevel panic -ss 730.665 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 148.489  tempclip11.mp4
+ffmpeg -hide_banner -loglevel panic -ss 892.966 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 158.044  tempclip12.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1058.08 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 65.01  tempclip13.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1126.39 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 32.62  tempclip14.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1162.03 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 3.64  tempclip15.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1168.83 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 1.98  tempclip16.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1181.63 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 54.99  tempclip17.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1239.65 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 69.32  tempclip18.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1311.99 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 19.61  tempclip19.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1339.57 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 24.2  tempclip20.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1369.92 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 80.58  tempclip21.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1455.68 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 12.79  tempclip22.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1473.4 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 8.98  tempclip23.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1488.01 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 34.86  tempclip24.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1526.02 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 4.85  tempclip25.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1537.46 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 15.92  tempclip26.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1560.62 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 15.76  tempclip27.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1580.26 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 2.79  tempclip28.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1586.14 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 50.72  tempclip29.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1640.5 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 52.85  tempclip30.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1697.91 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 2.64  tempclip31.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1716.91 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 68.64  tempclip32.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1792.73 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 200.99  tempclip33.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1997.6 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 16.86  tempclip34.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2017.61 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 1.88  tempclip35.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2025.13 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 65.04  tempclip36.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2093.82 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 48.7  tempclip37.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2160.16 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 8.43  tempclip39.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2172.6 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 6.5  tempclip40.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2182.57 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 14.14  tempclip41.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2202.52 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 40.83  tempclip42.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2246.6 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 6.88  tempclip43.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2258.73 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 13.69  tempclip44.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2280.27 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 18.16  tempclip45.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2304.26 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 21.66  tempclip46.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2330.72 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 19.75  tempclip47.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2358.04 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 2.71  tempclip48.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2368.77 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 7.81  tempclip49.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2386.27 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 2.99  tempclip50.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2401.01 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 8.39  tempclip52.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2413.07 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 19.61  tempclip53.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2462.36 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 4.43  tempclip55.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2471.54 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 3.03  tempclip56.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2482.18 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 2.27  tempclip58.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2487.78 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 6.91  tempclip59.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2517.39 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 8.53  tempclip62.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2530.04 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 11.37  tempclip63.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2565.07 -i "/Users/rossypro/Documents/Zoom/2021-03-30_19-48-49.mp4" -t 10.88  tempclip65.mp4
+duree silence = 8.87069116667min
+dureee video = 34.1154088333min
+
+-------------------------------------------
+['9.75401', '58.2045', '74.9709', '81.4757', '88.8039', '115.003', '205.06', '212.352', '225.57', '235.773', '239.41', '256.329', '285.767', '290.188', '330.273', '348.136', '377.395', '386.594', '400.184', '435.351', '464.382', '470.982', '478.019', '491.68', '495.153', '504.111', '524.159', '550.998', '560.349', '564.821', '572.955', '596.748', '608.431', '618.565', '649.101', '664.235', '680.037', '696.996', '715.56', '724.388', '733.43', '761.373', '769.817', '782.423', '789.239', '839.806', '851.797', '856.246', '859.466', '871.67', '889.019', '898.702', '913.719', '935.235', '942.824', '948.733', '952.206', '967.964', '984.474', '1009.95', '1024.2', '1048.36', '1062.75', '1131.25', '1169.78', '1173.22', '1271.23', '1302.09', '1382.65', '1391.02', '1413.02', '1517.42', '1527.6', '1547.13', '1553.87', '1583.57', '1590.11', '1637.72', '1645.66', '1657.43', '1667.02', '1679.92', '1684.82', '1758.89', '1776.94', '1788.88', '1807.95', '1858.73', '1864.78', '1880.35', '1888.16', '1892.04', '1902.78', '1923.64', '1937.79', '1942.48', '1953.68', '1966.68', '1972.91', '1989.35', '1993.41', '2005.02', '2008.89', '2017.97', '2028.28', '2050.52', '2092.29', '2098.56', '2117.76', '2127.74', '2138.3', '2144.49', '2151.69', '2169.52', '2174.38', '2240.09', '2246.48', '2254.03', '2333.23', '2345.35', '2445.83', '2481.14', '2484.69', '2510.21', '2581.22', '2625.64', '2642.02', '2652.27', '2658.8', '2672.68', '2686.34', '2697', '2701.15', '2723.38', '2740.73', '2771.9', '2775.36', '2829.18', '2850.26', '2869.43', '2875.99', '2884.46', '2895.01', '2904.48', '2921.6', '2950.65', '2955.84', '2980.81', '3034.02', '3095.77', '3102.01', '3154.26', '3184.84', '3204.32']
+['20.4611', '61.4066', '78.5335', '86.551', '107.846', '118.385', '208.202', '216.427', '234.652', '239.41', '256.329', '271.676', '289.789', '296.68', '335.82', '351.5', '380.829', '396.716', '406.563', '441.205', '470.944', '478.019', '489', '495.105', '501.079', '513.74', '540.556', '554.409', '564.767', '572.914', '596.702', '608.431', '618.333', '643.497', '655.945', '678.919', '684.586', '700.954', '723.427', '730.201', '754.83', '769.75', '782.423', '789.043', '835.484', '842.831', '855.201', '859.466', '871.669', '888.143', '897.81', '911.83', '921.436', '939.765', '948.733', '952.149', '957.36', '974.189', '989.568', '1021.94', '1031.64', '1062.14', '1124.33', '1140.22', '1172.92', '1221.9', '1291.18', '1337.46', '1388.41', '1413.02', '1501.29', '1521.45', '1531.08', '1553.87', '1582.56', '1589.51', '1635.6', '1641.38', '1654.13', '1667.02', '1674.84', '1684.79', '1758.89', '1776.94', '1788.88', '1806.94', '1858.69', '1862.49', '1872.49', '1887.46', '1891.47', '1901.8', '1920.2', '1932.92', '1942.48', '1947.07', '1964.44', '1972.12', '1980.32', '1993.41', '2003.22', '2008.87', '2013.65', '2022.42', '2032.88', '2057.51', '2096.08', '2101.79', '2120.78', '2132.49', '2142.74', '2150.81', '2163.13', '2174.38', '2240', '2246.44', '2254.01', '2333.23', '2344.8', '2445.67', '2474.92', '2484.69', '2510.21', '2576.73', '2622.19', '2635.17', '2648.17', '2658.4', '2664.29', '2686.34', '2692.79', '2700.79', '2705.13', '2732.38', '2744.56', '2775.25', '2780.13', '2836.47', '2853.5', '2875.97', '2884.45', '2890.06', '2904.48', '2916.3', '2950.29', '2955.51', '2969.5', '2984.58', '3041.53', '3099.23', '3153.61', '3183.99', '3204.31', '3221.77']
+53.6972min
+ffmpeg -hide_banner -loglevel panic -ss 0 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 9.75401 tempclip0.mp4
+ffmpeg -hide_banner -loglevel panic -ss 20.4611 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 37.7434  tempclip1.mp4
+ffmpeg -hide_banner -loglevel panic -ss 61.4066 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 13.5643  tempclip2.mp4
+ffmpeg -hide_banner -loglevel panic -ss 78.5335 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.9422  tempclip3.mp4
+ffmpeg -hide_banner -loglevel panic -ss 86.551 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.2529  tempclip4.mp4
+ffmpeg -hide_banner -loglevel panic -ss 107.846 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 7.157  tempclip5.mp4
+ffmpeg -hide_banner -loglevel panic -ss 118.385 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 86.675  tempclip6.mp4
+ffmpeg -hide_banner -loglevel panic -ss 208.202 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.15  tempclip7.mp4
+ffmpeg -hide_banner -loglevel panic -ss 216.427 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 9.143  tempclip8.mp4
+ffmpeg -hide_banner -loglevel panic -ss 234.652 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.121  tempclip9.mp4
+ffmpeg -hide_banner -loglevel panic -ss 271.676 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 14.091  tempclip12.mp4
+ffmpeg -hide_banner -loglevel panic -ss 296.68 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 33.593  tempclip14.mp4
+ffmpeg -hide_banner -loglevel panic -ss 335.82 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 12.316  tempclip15.mp4
+ffmpeg -hide_banner -loglevel panic -ss 351.5 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 25.895  tempclip16.mp4
+ffmpeg -hide_banner -loglevel panic -ss 380.829 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 5.765  tempclip17.mp4
+ffmpeg -hide_banner -loglevel panic -ss 396.716 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 3.468  tempclip18.mp4
+ffmpeg -hide_banner -loglevel panic -ss 406.563 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 28.788  tempclip19.mp4
+ffmpeg -hide_banner -loglevel panic -ss 441.205 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 23.177  tempclip20.mp4
+ffmpeg -hide_banner -loglevel panic -ss 489 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.68  tempclip23.mp4
+ffmpeg -hide_banner -loglevel panic -ss 501.079 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 3.032  tempclip25.mp4
+ffmpeg -hide_banner -loglevel panic -ss 513.74 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 10.419  tempclip26.mp4
+ffmpeg -hide_banner -loglevel panic -ss 540.556 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 10.442  tempclip27.mp4
+ffmpeg -hide_banner -loglevel panic -ss 554.409 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 5.94  tempclip28.mp4
+ffmpeg -hide_banner -loglevel panic -ss 643.497 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 5.604  tempclip34.mp4
+ffmpeg -hide_banner -loglevel panic -ss 655.945 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 8.29  tempclip35.mp4
+ffmpeg -hide_banner -loglevel panic -ss 678.919 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.118  tempclip36.mp4
+ffmpeg -hide_banner -loglevel panic -ss 684.586 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 12.41  tempclip37.mp4
+ffmpeg -hide_banner -loglevel panic -ss 700.954 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 14.606  tempclip38.mp4
+ffmpeg -hide_banner -loglevel panic -ss 730.201 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 3.229  tempclip40.mp4
+ffmpeg -hide_banner -loglevel panic -ss 754.83 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.543  tempclip41.mp4
+ffmpeg -hide_banner -loglevel panic -ss 835.484 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.322  tempclip45.mp4
+ffmpeg -hide_banner -loglevel panic -ss 842.831 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 8.966  tempclip46.mp4
+ffmpeg -hide_banner -loglevel panic -ss 855.201 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.045  tempclip47.mp4
+ffmpeg -hide_banner -loglevel panic -ss 911.83 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.889  tempclip52.mp4
+ffmpeg -hide_banner -loglevel panic -ss 921.436 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 13.799  tempclip53.mp4
+ffmpeg -hide_banner -loglevel panic -ss 939.765 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 3.059  tempclip54.mp4
+ffmpeg -hide_banner -loglevel panic -ss 957.36 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 10.604  tempclip57.mp4
+ffmpeg -hide_banner -loglevel panic -ss 974.189 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 10.285  tempclip58.mp4
+ffmpeg -hide_banner -loglevel panic -ss 989.568 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 20.382  tempclip59.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1021.94 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.26  tempclip60.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1031.64 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 16.72  tempclip61.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1124.33 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.92  tempclip63.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1140.22 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 29.56  tempclip64.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1221.9 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 49.33  tempclip66.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1291.18 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 10.91  tempclip67.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1337.46 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 45.19  tempclip68.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1388.41 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.61  tempclip69.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1501.29 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 16.13  tempclip71.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1521.45 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.15  tempclip72.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1531.08 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 16.05  tempclip73.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1582.56 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.01  tempclip75.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1635.6 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.12  tempclip77.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1641.38 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.28  tempclip78.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1654.13 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 3.3  tempclip79.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1674.84 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 5.08  tempclip81.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1806.94 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.01  tempclip86.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1862.49 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.29  tempclip88.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1872.49 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 7.86  tempclip89.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1920.2 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 3.44  tempclip93.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1932.92 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.87  tempclip94.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1947.07 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.61  tempclip96.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1964.44 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.24  tempclip97.mp4
+ffmpeg -hide_banner -loglevel panic -ss 1980.32 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 9.03  tempclip99.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2003.22 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.8  tempclip101.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2013.65 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.32  tempclip103.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2022.42 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 5.86  tempclip104.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2032.88 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 17.64  tempclip105.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2057.51 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 34.78  tempclip106.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2096.08 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.48  tempclip107.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2101.79 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 15.97  tempclip108.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2120.78 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.96  tempclip109.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2132.49 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 5.81  tempclip110.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2142.74 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 1.75  tempclip111.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2163.13 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.39  tempclip113.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2474.92 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.22  tempclip121.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2576.73 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.49  tempclip124.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2622.19 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 3.45  tempclip125.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2635.17 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 6.85  tempclip126.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2648.17 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.1  tempclip127.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2664.29 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 8.39  tempclip129.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2692.79 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.21  tempclip131.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2705.13 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 18.25  tempclip133.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2732.38 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 8.35  tempclip134.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2744.56 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 27.34  tempclip135.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2780.13 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 49.05  tempclip137.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2836.47 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 13.79  tempclip138.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2853.5 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 15.93  tempclip139.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2890.06 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 4.95  tempclip142.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2916.3 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 5.3  tempclip144.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2969.5 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 11.31  tempclip147.mp4
+ffmpeg -hide_banner -loglevel panic -ss 2984.58 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 49.44  tempclip148.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3041.53 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 54.24  tempclip149.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3099.23 -i "/Users/rossypro/Documents/Zoom/2021-03-30_20-55-27.mp4" -t 2.78  tempclip150.mp4
+duree silence = 34.7400365min
+dureee video = 18.9571635min
+
+-------------------------------------------
+['5.51073', '63.9476', '3263.89', '3544.25']
+['8.98374', '67.622', '3267.29', '3550.51']
+59.2372min
+ffmpeg -hide_banner -loglevel panic -ss 0 -i "/Users/rossypro/Documents/Zoom/LOG210-C13.mp4" -t 5.51073 tempclip0.mp4
+ffmpeg -hide_banner -loglevel panic -ss 8.98374 -i "/Users/rossypro/Documents/Zoom/LOG210-C13.mp4" -t 54.96386  tempclip1.mp4
+ffmpeg -hide_banner -loglevel panic -ss 67.622 -i "/Users/rossypro/Documents/Zoom/LOG210-C13.mp4" -t 3196.268  tempclip2.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3267.29 -i "/Users/rossypro/Documents/Zoom/LOG210-C13.mp4" -t 276.96  tempclip3.mp4
+ffmpeg -hide_banner -loglevel panic -ss 3550.51 -i "/Users/rossypro/Documents/Zoom/LOG210-C13.mp4" -t 3.722  tempclip4.mp4
+duree silence = 0.2801235min
+dureee video = 58.9570765min

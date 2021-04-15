@@ -17,10 +17,10 @@ else
     echo "$counter => $group"
       gh issue list > correction-issues.txt
       echo "------------------------------------------------------------------- " >> correction-issues.txt
-      for i in {1..15}
+      for i in {1..40}
       do
+        echo "issue: $i                " >> correction-issues.txt
         gh issue view $i >> correction-issues.txt
-        echo "                                       "
       done
   done
 fi

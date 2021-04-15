@@ -1,0 +1,190 @@
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Équipe01 => Seuis: [12 37]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Équipe01 => Seuis: [12 37]
+NouhailaAater mesuré=6% attendu=25%  *** WARNING ***
+Roodney_Aladin mesuré=59% attendu=25%  *** WARNING ***
+Ryad mesuré=18% attendu=25% 
+buckstarz mesuré=14% attendu=25% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Equipe02 => Seuis: [12 37]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Equipe02 => Seuis: [12 37]
+ChhanJackyEts mesuré=75% attendu=25%  *** WARNING ***
+Francois_Richard mesuré=0% attendu=25%  *** WARNING ***
+François_Richard mesuré=0% attendu=25%  *** WARNING ***
+HugoTurgeon-Nozaki mesuré=23% attendu=25% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Équipe05 => Seuis: [12 37]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Équipe05 => Seuis: [12 37]
+Arthur mesuré=0% attendu=25%  *** WARNING ***
+Arthur_Bousquet mesuré=83% attendu=25%  *** WARNING ***
+marcusphan mesuré=8% attendu=25%  *** WARNING ***
+sunhe1 mesuré=7% attendu=25%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Equipe06 => Seuis: [10 30]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Equipe06 => Seuis: [10 30]
+Farouk_Baaziz mesuré=12% attendu=20% 
+Farouk_Bz mesuré=2% attendu=20%  *** WARNING ***
+Marc-Olivier_Fillion mesuré=15% attendu=20% 
+Marc-OlivierFillion mesuré=19% attendu=20% 
+tri mesuré=49% attendu=20%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Équipe3 => Seuis: [10 30]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Équipe3 => Seuis: [10 30]
+Cao-Vien_Quoc_Tran mesuré=3% attendu=20%  *** WARNING ***
+Dickson mesuré=17% attendu=20% 
+Hadi mesuré=43% attendu=20%  *** WARNING ***
+Hadi_Warda mesuré=1% attendu=20%  *** WARNING ***
+xMargox mesuré=34% attendu=20%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Equipe4 => Seuis: [16 49]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Equipe4 => Seuis: [16 49]
+Mohamed_Chraiet mesuré=42% attendu=33% 
+Naorin_Khan mesuré=6% attendu=33%  *** WARNING ***
+Xian mesuré=50% attendu=33%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Team7 => Seuis: [8 24]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-01-LAB1-02-11-2021-03-21-11/Team7 => Seuis: [8 24]
+Alex mesuré=0% attendu=16%  *** WARNING ***
+Gabriel_Grenier mesuré=0% attendu=16%  *** WARNING ***
+GabrielGrenier mesuré=87% attendu=16%  *** WARNING ***
+Hadrien_Ren mesuré=0% attendu=16%  *** WARNING ***
+Hadrien_Renault mesuré=6% attendu=16%  *** WARNING ***
+gab885 mesuré=5% attendu=16%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-01 => Seuis: [12 37]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-01 => Seuis: [12 37]
+Ariel_Sashcov mesuré=0% attendu=25%  *** WARNING ***
+Gallizioli mesuré=13% attendu=25% 
+arielsashcov mesuré=32% attendu=25% 
+chargag mesuré=53% attendu=25%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-02 => Seuis: [10 30]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-02 => Seuis: [10 30]
+Philip mesuré=0% attendu=20%  *** WARNING ***
+PhilipHuynh mesuré=33% attendu=20%  *** WARNING ***
+Savannah mesuré=28% attendu=20% 
+arielasomfelean mesuré=26% attendu=20% 
+dvoumagagnon mesuré=10% attendu=20% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-04 => Seuis: [8 24]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-04 => Seuis: [8 24]
+Eduardo_Furtado mesuré=0% attendu=16%  *** WARNING ***
+EduardoLozaRojas mesuré=5% attendu=16%  *** WARNING ***
+Lebeau-Alexandre mesuré=25% attendu=16%  *** WARNING ***
+Marc-Andre_Despins mesuré=1% attendu=16%  *** WARNING ***
+alexdigirealty mesuré=64% attendu=16%  *** WARNING ***
+boubou243 mesuré=3% attendu=16%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-05 => Seuis: [12 37]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-05 => Seuis: [12 37]
+Justinlcx mesuré=17% attendu=25% 
+Lyam1223 mesuré=54% attendu=25%  *** WARNING ***
+MoonlightSonataa mesuré=8% attendu=25%  *** WARNING ***
+mcd99 mesuré=19% attendu=25% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-06 => Seuis: [12 37]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-02-LAB1-02-11-2021-03-21-31/LOG210-02-LAB1-Eq-06 => Seuis: [12 37]
+Dylan_Corfmat mesuré=35% attendu=25% 
+DylanCorfmat mesuré=0% attendu=25%  *** WARNING ***
+Nimai mesuré=40% attendu=25%  *** WARNING ***
+bloc-notes mesuré=23% attendu=25% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB-TEAM10 => Seuis: [8 24]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB-TEAM10 => Seuis: [8 24]
+Arthur_Weber mesuré=37% attendu=16%  *** WARNING ***
+Soloesteban mesuré=0% attendu=16%  *** WARNING ***
+Your_Name mesuré=2% attendu=16%  *** WARNING ***
+elainesoucy mesuré=45% attendu=16%  *** WARNING ***
+fritessauces mesuré=0% attendu=16%  *** WARNING ***
+soloestebann mesuré=13% attendu=16% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB0 => Seuis: [8 24]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB0 => Seuis: [8 24]
+Antoine_Brassard_Lah mesuré=53% attendu=16%  *** WARNING ***
+Zakaria_Souadda mesuré=0% attendu=16%  *** WARNING ***
+ZakariaSouadda mesuré=20% attendu=16% 
+pascal1796 mesuré=0% attendu=16%  *** WARNING ***
+pascalkameni mesuré=20% attendu=16% 
+yhammami mesuré=4% attendu=16%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM01 => Seuis: [12 37]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM01 => Seuis: [12 37]
+Marco_Caballero mesuré=16% attendu=25% 
+Mylene599 mesuré=52% attendu=25%  *** WARNING ***
+Vincent_Berube mesuré=8% attendu=25%  *** WARNING ***
+clementine mesuré=21% attendu=25% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM03 => Seuis: [16 49]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM03 => Seuis: [16 49]
+EK230948230598 mesuré=6% attendu=33%  *** WARNING ***
+emondhar mesuré=24% attendu=33% 
+naomi-rc mesuré=68% attendu=33%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM04 => Seuis: [8 24]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM04 => Seuis: [8 24]
+ATrashInTheWorld mesuré=39% attendu=16%  *** WARNING ***
+BogdanRusu-03 mesuré=0% attendu=16%  *** WARNING ***
+EdwinZDiaz mesuré=0% attendu=16%  *** WARNING ***
+Ken-ETS mesuré=0% attendu=16%  *** WARNING ***
+Keny_N mesuré=15% attendu=16% 
+KevinMansour mesuré=44% attendu=16%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM05 => Seuis: [16 49]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM05 => Seuis: [16 49]
+hussain-sadia mesuré=42% attendu=33% 
+mchth mesuré=30% attendu=33% 
+mcouet mesuré=27% attendu=33% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM06 => Seuis: [10 30]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM06 => Seuis: [10 30]
+Mihai_Armasaru mesuré=13% attendu=20% 
+Niv mesuré=2% attendu=20%  *** WARNING ***
+nivabecassis mesuré=60% attendu=20%  *** WARNING ***
+unknown mesuré=0% attendu=20%  *** WARNING ***
+william mesuré=22% attendu=20% 
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM07 => Seuis: [8 24]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM07 => Seuis: [8 24]
+Carl_Gosselin mesuré=29% attendu=16%  *** WARNING ***
+Jason_Pang mesuré=2% attendu=16%  *** WARNING ***
+JasonPang-ETS mesuré=2% attendu=16%  *** WARNING ***
+Willy mesuré=4% attendu=16%  *** WARNING ***
+Willy_Kao mesuré=1% attendu=16%  *** WARNING ***
+psychochair mesuré=61% attendu=16%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM08 => Seuis: [16 49]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM08 => Seuis: [16 49]
+Jeff_Martin mesuré=24% attendu=33% 
+WilliamMarcoux-MARW0 mesuré=9% attendu=33%  *** WARNING ***
+babatremblay mesuré=65% attendu=33%  *** WARNING ***
+ 
+ 
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM09 => Seuis: [8 24]
+/Users/rossypro/Downloads/LOG210-lab01/S20211-LOG210-03-LAB1-02-11-2021-03-21-52/S20211-LOG210-03-LAB1-TEAM09 => Seuis: [8 24]
+Eduardo_Furtado mesuré=0% attendu=16%  *** WARNING ***
+Sebastien_Goulet mesuré=0% attendu=16%  *** WARNING ***
+Sébastien_Champoux mesuré=5% attendu=16%  *** WARNING ***
+TheBigBear1 mesuré=35% attendu=16%  *** WARNING ***
+mchausse mesuré=31% attendu=16%  *** WARNING ***
+sebastiengoulet mesuré=27% attendu=16%  *** WARNING ***
+ 

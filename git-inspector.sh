@@ -13,8 +13,8 @@ else
       cd "$repertoire"
 
       tplant --input ./**/*.ts --output class_extracted_from_code.svg
-      gitinspector -f** -Tw -x author:"Yvan Ross" -x author:elaforge98 -x author:JeremieMalenfant -x author:Olon11 -x author:"Horace ETS" -x author:"prettifier" > report_gitinspector.txt
-      
+      gitinspector -f** -Tw -x author:"Yvan Ross" -x author:elaforge98 -x author:sebchampoux -x author:islemsaidani -x author:Olon11 -x author:hinderrahmouni -x author:"prettifier" > report_gitinspector.txt
+
       cat report_gitinspector.txt | sed '/Below/,$d' | sed  '1,/changes/d' | sed  "s/[[:>:]][[:space:]][[:<:]]/_/g"  | sed '$ d' > report_gitinspector_data.txt
       nb_etudiant=$(cat "report_gitinspector_data.txt" | wc -l)
 
@@ -29,6 +29,7 @@ else
 
         echo " " >> "$report"
         echo "$repertoire => Seuis: [$participation_minimum $participation_maximum]" >> "$report"
+       echo "$repertoire => Seuis: [$participation_minimum $participation_maximum]" >> "$report"
         
         while read line; do
           etudiant=$(echo "$line" | awk '{print $1}')
@@ -37,15 +38,19 @@ else
       
           if [ "$participation" -lt "$participation_minimum" ] ||  [ "$participation" -gt "$participation_maximum" ]   
           then
+            echo "$etudiant mesuré=$participation% attendu=$participation_attendu%  *** WARNING ***" >> report_gitinspector.txt
             echo "$etudiant mesuré=$participation% attendu=$participation_attendu%  *** WARNING ***" >> "$report"
             echo "$etudiant mesuré=$participation% attendu=$participation_attendu%  *** WARNING ***"
           else
+            echo "$etudiant mesuré=$participation% attendu=$participation_attendu% " >> report_gitinspector.txt
             echo "$etudiant mesuré=$participation% attendu=$participation_attendu% " >> "$report"
             echo "$etudiant mesuré=$participation% attendu=$participation_attendu% "
           fi
         done < "report_gitinspector_data.txt"
+        echo  " " >> report_gitinspector.txt
         echo  " " >> "$report"
         echo  " "
+
         rm -f "report_gitinspector_data.txt"
       fi
     done  
