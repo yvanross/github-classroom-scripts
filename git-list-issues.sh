@@ -14,13 +14,26 @@ else
     counter=$(( $counter + 1 ))
     cd "$group"
     echo "------------------------------------------------------------------- "
+    $nbFail=0
     echo "$counter => $group"
       gh issue list > correction-issues.txt
       echo "------------------------------------------------------------------- " >> correction-issues.txt
-      for i in {1..40}
+      for i in {1..300}
       do
-        echo "issue: $i                " >> correction-issues.txt
+      {
+        echo "issue: $i"
+        echo "                                                       " >> correction-issues.txt
+        echo "issue: $i  -----------------------------------------------------------------------------------------------------------              " >> correction-issues.txt
         gh issue view $i >> correction-issues.txt
+      } || {
+          echo "FAIL: $nbFail"
+          nbFail=$((nbFail+1))
+          if [ "$nbFail" -ge 50 ]  
+          then
+            nbFail=0
+            break
+          fi
+      }
       done
   done
 fi

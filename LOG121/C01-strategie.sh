@@ -9,7 +9,7 @@
 # ./s20211-log121-C01-strategie.sh "/Users/rossypro/Downloads/LOG121-strategie" 2
 if [ -z $1 ] || [ -z $2 ] ; then
   echo "second parameter is the find maxdepth for directory"
-  echo './s20211-log121-C01-strategie.sh "/Users/rossypro/Downloads/LOG121-strategie" 2'
+  echo './C01-strategie.sh "/Users/rossypro/Downloads/LOG121-strategie" 2'
 else 
   clear
   counter=0
@@ -21,11 +21,13 @@ else
     if test -f "correction-commentaires.txt" ; then
     continue;
     fi
-  
+    mvn test > correction-test.txt
+    code README.md
     open README.pdf
     open README.md.pdf
-    open correction-test.txt
-    open ./src/main/java/PatronStrategie/Comparator/ComparatorNomSalaire.java
+    code correction-test.txt
+    code ./src/main/java/PatronStrategie/Comparator/ComparatorNomSalaire.java
+    pwd
     while [ true ]
     do
       echo "Entrer vos commentaires"
@@ -50,14 +52,18 @@ else
           echo "sb - sb:StringBugger est manquand dans votre diagramme de séquence"
           echo "co - Manque l'appel à la méthode compare sur les comparateur"
           echo "cc - L'association entre la Compagnie et Comparator ne doit pas être une composition"
-          echo "c - continue to next student"
+          echo "n - continue to next student"
           echo "dep - Il ne devrait pas y avoir de dépendance entre les différent comparator et Employé.  Cela devrait etre représenté par une dépendance entre Interface Comparator et Employe"
           echo "x - exit"
           echo 'o - open all files'
           echo 's - sublime .'
+          echo 'c - code .'
           ;;
         s)
           sublime .
+          ;;
+        c)
+          code .
           ;;
         dep)
           echo "- Il ne devrait pas y avoir de dépendance entre les différent comparator et Employé.  Cela devrait etre représenté par une dépendance entre Interface Comparator et Employe"
@@ -72,12 +78,13 @@ else
           echo "- L'association entre la Compagnie et Comparator ne doit pas être une composition" >> correction-commentaires.txt    
         ;;
         o)
+          code README.md
           open README.pdf
           open README.md.pdf
-          open correction-test.txt
-          open ./src/main/java/PatronStrategie/Comparator/ComparatorNomSalaire.java
+          code correction-test.txt
+          code ./src/main/java/PatronStrategie/Comparator/ComparatorNomSalaire.java
           ;;
-        c)
+        n)
           break
           ;;
         gc)

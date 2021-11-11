@@ -16,6 +16,10 @@ puts 'Gems installed and loaded!'
 NB_STUDENT  = 50
 NB_METRIC = 30
 
+def min (a,b)
+    a<b ? a : b
+end
+
 class Signets
     attr_accessor :signets
     attr_accessor :workbook1
@@ -53,10 +57,13 @@ class Signets
     def updateNote(code,metric,note, nom)
         self.signets.each do |signet|
             index_col_code = findColMetric(signet,"Code universel")
+            index_col_courriel = findColMetric(signet,"Courriel")
             index_col_metric = findColMetric(signet,metric)
             index_row_code = findRowCode(signet,4,index_col_code, code)
             unless(index_row_code.nil? || index_col_metric.nil?)
-                puts "SUCCESS #{code} #{metric} #{note} #{nom}"
+                courriel = signet[index_row_code][index_col_courriel].value
+                 puts "SUCCESS #{code} #{metric} #{note} #{nom} #{courriel}"
+                # puts "SUCCESS #{code} #{metric} #{note} #{nom}"
                 signet.add_cell(index_row_code,index_col_metric,note)
                 return true
             end
@@ -84,8 +91,8 @@ class Students
     end
 
     def display
-        if self.students.nil?
-            puts "STUDENTS not identified yet"
+        if self.students.nil? || self.students.empty?
+            puts "ERROR: STUDENTS not identified yet *****************************************"
         else
             self.students.each  do |student|
                 student.display() unless student.code.nil? || student.code.empty?
@@ -155,9 +162,9 @@ class Notes
         signets.updateNote(student.code,'Plan itération #2',self.plan2,student.name) if self.plan2 > 0.01
         signets.updateNote(student.code,'Plan itération #3',self.plan3,student.name) if self.plan3 > 0.01
         if(student.note > 0.01)
-            signets.updateNote(student.code,'Implémentation',student.note,student.name)
+            signets.updateNote(student.code,'Implémentation',min(120,student.note),student.name)
         else 
-            signets.updateNote(student.code,'Implémentation',self.implementation,student.name) if self.implementation > 0.01
+            signets.updateNote(student.code,'Implémentation',min(120,self.implementation),student.name) if self.implementation > 0.01
         end
     end
 
@@ -167,7 +174,7 @@ end
 def getFiles()
     files = []
     Find.find(ARGV[0]) do |path|
-        files << path if path =~ /notes.xlsx$/
+        files << path if path =~ /equipe\d{1,2}-notes\.xlsx$/
     end
     return files
 end
@@ -188,6 +195,8 @@ def synchFiles(files)
     end
     signets.close()
 end
+
+
 
 puts "Start"
 synchFiles(getFiles())

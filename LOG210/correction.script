@@ -1,0 +1,6 @@
+./git-enable.sh /Users/rossypro/Downloads/LOG210/Lab0-06-23-2021-03-32-54 1
+./cmd.sh /Users/rossypro/Downloads/LOG210/Lab0-06-23-2021-03-32-54 1 "npm install"
+./cmd_k.sh /Users/rossypro/Downloads/LOG210/Lab0-06-23-2021-03-32-54 1 "open http://localhost:3000 && open squelette.pdf && npm run build && npm run start&"
+./cmd_k.sh /Users/rossypro/Downloads/LOG210/Lab0-06-23-2021-03-32-54 1 "cat docs/modeles/rdcu-redemarrerJeu.puml &&  open squelette.pdf"
+./cmd_k.sh /Users/rossypro/Downloads/LOG210/Lab0-06-23-2021-03-32-54 1 "sublime note.txt &&  open squelette.pdf"
+./git-push.sh /Users/rossypro/Downloads/LOG210/Lab0-06-23-2021-03-32-54 1 "correction voir squelette.pdf"
